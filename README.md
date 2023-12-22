@@ -1,1 +1,38 @@
-# Bluetooth-Self-Driving-and-Follower-Car-with-Arduino-Uno
+# Bluetooth Self-Driving and Follower Car with Arduino Uno
+
+## Overview
+
+This project involves creating a self-driving car and a follower car that communicate using Bluetooth. The self-driving car utilizes sensors and algorithms to navigate autonomously, while the follower car mimics the movements of the self-driving car.
+
+### Features
+
+- **Self-Driving Car:**
+  - Uses Arduino Uno microcontroller.
+  - Implements autonomous navigation with sensors.
+  - Bluetooth communication for control.
+
+- **Follower Car:**
+  - Arduino Uno powered.
+  - Mimics the movements of the self-driving car through Bluetooth.
+
+## Components
+
+- Arduino Uno
+- DC Motors
+- Motor Drivers
+- Bluetooth Module (e.g., HC-05)
+- Sensors for self-driving car (e.g., Ultrasonic sensors, IR sensors)
+- Chassis for both cars
+- Power source (e.g., batteries)
+
+## Wiring Diagram
+
+Include a simple wiring diagram to help users understand how to connect the various components. You can use tools like Fritzing or draw.io to create diagrams.
+
+![Wiring Diagram](link-to-your-image.png)
+
+## Setup Instructions
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/arduino-bluetooth-self-driving-car.git
