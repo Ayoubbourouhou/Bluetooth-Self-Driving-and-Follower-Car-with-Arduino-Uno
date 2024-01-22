@@ -29,7 +29,8 @@ This project involves creating a self-driving car and a follower car that commun
 
 Include a simple wiring diagram to help users understand how to connect the various components. You can use tools like Fritzing or draw.io to create diagrams.
 
-![Wiring Diagram](link-to-your-image.png)
+![Wiring Diagram](images/1.jpeg)
+![Wiring Diagram](images/2.jpeg)
 
 ## Setup Instructions
 
